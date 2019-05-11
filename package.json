@@ -1,14 +1,14 @@
 {
-	"name": "@faustbrian/capped-set",
+	"name": "@veestore/capped-set",
 	"version": "0.1.0",
-	"description": "A Set that is capped in size for TypeScript.",
-	"homepage": "https://github.com/faustbrian/capped-set",
+	"description": "Capped Set Implementation of Vee Store.",
+	"homepage": "https://github.com/veestore/capped-set",
 	"bugs": {
-		"url": "https://github.com/faustbrian/capped-set/issues"
+		"url": "https://github.com/veestore/capped-set/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:faustbrian/capped-set.git"
+		"url": "git@github.com:veestore/capped-set.git"
 	},
 	"license": "MIT",
 	"author": "Brian Faust <hello@basecode.sh>",
